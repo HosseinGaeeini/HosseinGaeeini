@@ -1,4 +1,3 @@
-Data-driven finance professional applying data science and machine learning to real-world economic problems.
 Hi, I'm Hossein Gaeini — a data-driven finance professional working at the intersection of finance, economics, and data science. I use tools like Python, R, and SQL to analyze complex datasets and uncover insights.
 
 This GitHub showcases some of my personal and research-based projects, including:
