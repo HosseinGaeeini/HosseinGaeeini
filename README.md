@@ -1,8 +1,15 @@
-👋 Hi, I’m @HosseinGaeeini
+Data-driven finance professional applying data science and machine learning to real-world economic problems.
+Hi, I'm Hossein Gaeini — a data-driven finance professional working at the intersection of finance, economics, and data science. I use tools like Python, R, and SQL to analyze complex datasets and uncover insights.
 
-I’m interested in applications of data science for firms and individuals. I’m currently learning in-depth mathematical basis of machine learning techniques
+This GitHub showcases some of my personal and research-based projects, including:
 
-<!---
-HosseinGaeeini/HosseinGaeeini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📈 Financial time series analysis
+
+🧮 Econometric modeling
+
+📉 Machine learning in economics and investing
+
+🚗 Applied data science (e.g., traffic congestion & fuel prices)
+
+I'm passionate about solving real-world problems through data. Open to collaboration and new ideas.
+
